@@ -7,3 +7,5 @@ Lowser is designed for users who want full control over their browser’s look a
 The core idea behind the project is to empower users with personalization while respecting their privacy. The browser stores only essential data — browsing history, cookies, and hashes — and nothing more. This approach keeps the browsing experience familiar yet minimalist in terms of data collection.
 
 The project is currently in its early stage: the first version is available, and future updates will bring new features and improvements. Join the development, share your ideas, and help make Lowser even better!
+
+If the browser is not working correctly: go to the AppData folder, then to Local, and delete the Lowser folder. This will reset the settings and may help fix potential issues.
